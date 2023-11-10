@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697205599 source:c:\users\cjado\onedrive\escritorio\programacion para mecatronicos\5.14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
